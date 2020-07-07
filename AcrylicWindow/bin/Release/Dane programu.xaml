@@ -1,0 +1,184 @@
+﻿<SesjeClass SesjaObecna="{x:Reference __ReferenceID0}" IndexSesjaObecna="0" xmlns="clr-namespace:Database.Models;assembly=Database" xmlns:sco="clr-namespace:System.Collections.ObjectModel;assembly=System" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <SesjeClass.Sesje>
+    <SesjaClass x:Name="__ReferenceID0" IndexSemestr="0" NameSesion="Nowy Rok szkolny" Średnia="0" Średnia1="0" Średnia2="0">
+      <SesjaClass.Przedmioty>
+        <PrzedmiotClass PrzedmiotIsBranyPodUwage="True" PrzedmiotNazwa="Biologia" PrzedmiotOcena="0" PrzedmiotOcena1="0" PrzedmiotOcena2="0" PrzedmiotProg="Zwykły nauczyciel" PrzedmiotŚrednia="0" PrzedmiotŚrednia1="0" PrzedmiotŚrednia2="0">
+          <PrzedmiotClass.PrzedmiotOceny1>
+            <sco:ObservableCollection x:TypeArguments="OcenaClass" />
+          </PrzedmiotClass.PrzedmiotOceny1>
+          <PrzedmiotClass.PrzedmiotOceny2>
+            <sco:ObservableCollection x:TypeArguments="OcenaClass" />
+          </PrzedmiotClass.PrzedmiotOceny2>
+        </PrzedmiotClass>
+        <PrzedmiotClass PrzedmiotIsBranyPodUwage="True" PrzedmiotNazwa="Chemia" PrzedmiotOcena="0" PrzedmiotOcena1="0" PrzedmiotOcena2="0" PrzedmiotProg="Zwykły nauczyciel" PrzedmiotŚrednia="0" PrzedmiotŚrednia1="0" PrzedmiotŚrednia2="0">
+          <PrzedmiotClass.PrzedmiotOceny1>
+            <sco:ObservableCollection x:TypeArguments="OcenaClass" />
+          </PrzedmiotClass.PrzedmiotOceny1>
+          <PrzedmiotClass.PrzedmiotOceny2>
+            <sco:ObservableCollection x:TypeArguments="OcenaClass" />
+          </PrzedmiotClass.PrzedmiotOceny2>
+        </PrzedmiotClass>
+        <PrzedmiotClass PrzedmiotIsBranyPodUwage="True" PrzedmiotNazwa="EDB" PrzedmiotOcena="0" PrzedmiotOcena1="0" PrzedmiotOcena2="0" PrzedmiotProg="Zwykły nauczyciel" PrzedmiotŚrednia="0" PrzedmiotŚrednia1="0" PrzedmiotŚrednia2="0">
+          <PrzedmiotClass.PrzedmiotOceny1>
+            <sco:ObservableCollection x:TypeArguments="OcenaClass" />
+          </PrzedmiotClass.PrzedmiotOceny1>
+          <PrzedmiotClass.PrzedmiotOceny2>
+            <sco:ObservableCollection x:TypeArguments="OcenaClass" />
+          </PrzedmiotClass.PrzedmiotOceny2>
+        </PrzedmiotClass>
+        <PrzedmiotClass PrzedmiotIsBranyPodUwage="True" PrzedmiotNazwa="Fizyka" PrzedmiotOcena="0" PrzedmiotOcena1="0" PrzedmiotOcena2="0" PrzedmiotProg="Zwykły nauczyciel" PrzedmiotŚrednia="0" PrzedmiotŚrednia1="0" PrzedmiotŚrednia2="0">
+          <PrzedmiotClass.PrzedmiotOceny1>
+            <sco:ObservableCollection x:TypeArguments="OcenaClass" />
+          </PrzedmiotClass.PrzedmiotOceny1>
+          <PrzedmiotClass.PrzedmiotOceny2>
+            <sco:ObservableCollection x:TypeArguments="OcenaClass" />
+          </PrzedmiotClass.PrzedmiotOceny2>
+        </PrzedmiotClass>
+        <PrzedmiotClass PrzedmiotIsBranyPodUwage="True" PrzedmiotNazwa="Geografia" PrzedmiotOcena="0" PrzedmiotOcena1="0" PrzedmiotOcena2="0" PrzedmiotProg="Zwykły nauczyciel" PrzedmiotŚrednia="0" PrzedmiotŚrednia1="0" PrzedmiotŚrednia2="0">
+          <PrzedmiotClass.PrzedmiotOceny1>
+            <sco:ObservableCollection x:TypeArguments="OcenaClass" />
+          </PrzedmiotClass.PrzedmiotOceny1>
+          <PrzedmiotClass.PrzedmiotOceny2>
+            <sco:ObservableCollection x:TypeArguments="OcenaClass" />
+          </PrzedmiotClass.PrzedmiotOceny2>
+        </PrzedmiotClass>
+        <PrzedmiotClass PrzedmiotIsBranyPodUwage="True" PrzedmiotNazwa="Godzina wychowawcza" PrzedmiotOcena="0" PrzedmiotOcena1="0" PrzedmiotOcena2="0" PrzedmiotProg="Zwykły nauczyciel" PrzedmiotŚrednia="0" PrzedmiotŚrednia1="0" PrzedmiotŚrednia2="0">
+          <PrzedmiotClass.PrzedmiotOceny1>
+            <sco:ObservableCollection x:TypeArguments="OcenaClass" />
+          </PrzedmiotClass.PrzedmiotOceny1>
+          <PrzedmiotClass.PrzedmiotOceny2>
+            <sco:ObservableCollection x:TypeArguments="OcenaClass" />
+          </PrzedmiotClass.PrzedmiotOceny2>
+        </PrzedmiotClass>
+        <PrzedmiotClass PrzedmiotIsBranyPodUwage="True" PrzedmiotNazwa="Historia" PrzedmiotOcena="0" PrzedmiotOcena1="0" PrzedmiotOcena2="0" PrzedmiotProg="Zwykły nauczyciel" PrzedmiotŚrednia="0" PrzedmiotŚrednia1="0" PrzedmiotŚrednia2="0">
+          <PrzedmiotClass.PrzedmiotOceny1>
+            <sco:ObservableCollection x:TypeArguments="OcenaClass" />
+          </PrzedmiotClass.PrzedmiotOceny1>
+          <PrzedmiotClass.PrzedmiotOceny2>
+            <sco:ObservableCollection x:TypeArguments="OcenaClass" />
+          </PrzedmiotClass.PrzedmiotOceny2>
+        </PrzedmiotClass>
+        <PrzedmiotClass PrzedmiotIsBranyPodUwage="True" PrzedmiotNazwa="Informatyka" PrzedmiotOcena="0" PrzedmiotOcena1="0" PrzedmiotOcena2="0" PrzedmiotProg="Zwykły nauczyciel" PrzedmiotŚrednia="0" PrzedmiotŚrednia1="0" PrzedmiotŚrednia2="0">
+          <PrzedmiotClass.PrzedmiotOceny1>
+            <sco:ObservableCollection x:TypeArguments="OcenaClass" />
+          </PrzedmiotClass.PrzedmiotOceny1>
+          <PrzedmiotClass.PrzedmiotOceny2>
+            <sco:ObservableCollection x:TypeArguments="OcenaClass" />
+          </PrzedmiotClass.PrzedmiotOceny2>
+        </PrzedmiotClass>
+        <PrzedmiotClass PrzedmiotIsBranyPodUwage="True" PrzedmiotNazwa="J. Angielski" PrzedmiotOcena="0" PrzedmiotOcena1="0" PrzedmiotOcena2="0" PrzedmiotProg="Zwykły nauczyciel" PrzedmiotŚrednia="0" PrzedmiotŚrednia1="0" PrzedmiotŚrednia2="0">
+          <PrzedmiotClass.PrzedmiotOceny1>
+            <sco:ObservableCollection x:TypeArguments="OcenaClass" />
+          </PrzedmiotClass.PrzedmiotOceny1>
+          <PrzedmiotClass.PrzedmiotOceny2>
+            <sco:ObservableCollection x:TypeArguments="OcenaClass" />
+          </PrzedmiotClass.PrzedmiotOceny2>
+        </PrzedmiotClass>
+        <PrzedmiotClass PrzedmiotIsBranyPodUwage="True" PrzedmiotNazwa="J. Francuski" PrzedmiotOcena="0" PrzedmiotOcena1="0" PrzedmiotOcena2="0" PrzedmiotProg="Zwykły nauczyciel" PrzedmiotŚrednia="0" PrzedmiotŚrednia1="0" PrzedmiotŚrednia2="0">
+          <PrzedmiotClass.PrzedmiotOceny1>
+            <sco:ObservableCollection x:TypeArguments="OcenaClass" />
+          </PrzedmiotClass.PrzedmiotOceny1>
+          <PrzedmiotClass.PrzedmiotOceny2>
+            <sco:ObservableCollection x:TypeArguments="OcenaClass" />
+          </PrzedmiotClass.PrzedmiotOceny2>
+        </PrzedmiotClass>
+        <PrzedmiotClass PrzedmiotIsBranyPodUwage="True" PrzedmiotNazwa="J. Niemiecki" PrzedmiotOcena="0" PrzedmiotOcena1="0" PrzedmiotOcena2="0" PrzedmiotProg="Zwykły nauczyciel" PrzedmiotŚrednia="0" PrzedmiotŚrednia1="0" PrzedmiotŚrednia2="0">
+          <PrzedmiotClass.PrzedmiotOceny1>
+            <sco:ObservableCollection x:TypeArguments="OcenaClass" />
+          </PrzedmiotClass.PrzedmiotOceny1>
+          <PrzedmiotClass.PrzedmiotOceny2>
+            <sco:ObservableCollection x:TypeArguments="OcenaClass" />
+          </PrzedmiotClass.PrzedmiotOceny2>
+        </PrzedmiotClass>
+        <PrzedmiotClass PrzedmiotIsBranyPodUwage="True" PrzedmiotNazwa="J. Polski" PrzedmiotOcena="0" PrzedmiotOcena1="0" PrzedmiotOcena2="0" PrzedmiotProg="Zwykły nauczyciel" PrzedmiotŚrednia="0" PrzedmiotŚrednia1="0" PrzedmiotŚrednia2="0">
+          <PrzedmiotClass.PrzedmiotOceny1>
+            <sco:ObservableCollection x:TypeArguments="OcenaClass" />
+          </PrzedmiotClass.PrzedmiotOceny1>
+          <PrzedmiotClass.PrzedmiotOceny2>
+            <sco:ObservableCollection x:TypeArguments="OcenaClass" />
+          </PrzedmiotClass.PrzedmiotOceny2>
+        </PrzedmiotClass>
+        <PrzedmiotClass PrzedmiotIsBranyPodUwage="True" PrzedmiotNazwa="J. Rosyjski" PrzedmiotOcena="0" PrzedmiotOcena1="0" PrzedmiotOcena2="0" PrzedmiotProg="Zwykły nauczyciel" PrzedmiotŚrednia="0" PrzedmiotŚrednia1="0" PrzedmiotŚrednia2="0">
+          <PrzedmiotClass.PrzedmiotOceny1>
+            <sco:ObservableCollection x:TypeArguments="OcenaClass" />
+          </PrzedmiotClass.PrzedmiotOceny1>
+          <PrzedmiotClass.PrzedmiotOceny2>
+            <sco:ObservableCollection x:TypeArguments="OcenaClass" />
+          </PrzedmiotClass.PrzedmiotOceny2>
+        </PrzedmiotClass>
+        <PrzedmiotClass PrzedmiotIsBranyPodUwage="True" PrzedmiotNazwa="Matematyka" PrzedmiotOcena="0" PrzedmiotOcena1="0" PrzedmiotOcena2="0" PrzedmiotProg="Zwykły nauczyciel" PrzedmiotŚrednia="0" PrzedmiotŚrednia1="0" PrzedmiotŚrednia2="0">
+          <PrzedmiotClass.PrzedmiotOceny1>
+            <sco:ObservableCollection x:TypeArguments="OcenaClass" />
+          </PrzedmiotClass.PrzedmiotOceny1>
+          <PrzedmiotClass.PrzedmiotOceny2>
+            <sco:ObservableCollection x:TypeArguments="OcenaClass" />
+          </PrzedmiotClass.PrzedmiotOceny2>
+        </PrzedmiotClass>
+        <PrzedmiotClass PrzedmiotIsBranyPodUwage="True" PrzedmiotNazwa="Muzyka" PrzedmiotOcena="0" PrzedmiotOcena1="0" PrzedmiotOcena2="0" PrzedmiotProg="Zwykły nauczyciel" PrzedmiotŚrednia="0" PrzedmiotŚrednia1="0" PrzedmiotŚrednia2="0">
+          <PrzedmiotClass.PrzedmiotOceny1>
+            <sco:ObservableCollection x:TypeArguments="OcenaClass" />
+          </PrzedmiotClass.PrzedmiotOceny1>
+          <PrzedmiotClass.PrzedmiotOceny2>
+            <sco:ObservableCollection x:TypeArguments="OcenaClass" />
+          </PrzedmiotClass.PrzedmiotOceny2>
+        </PrzedmiotClass>
+        <PrzedmiotClass PrzedmiotIsBranyPodUwage="True" PrzedmiotNazwa="Plastyka" PrzedmiotOcena="0" PrzedmiotOcena1="0" PrzedmiotOcena2="0" PrzedmiotProg="Zwykły nauczyciel" PrzedmiotŚrednia="0" PrzedmiotŚrednia1="0" PrzedmiotŚrednia2="0">
+          <PrzedmiotClass.PrzedmiotOceny1>
+            <sco:ObservableCollection x:TypeArguments="OcenaClass" />
+          </PrzedmiotClass.PrzedmiotOceny1>
+          <PrzedmiotClass.PrzedmiotOceny2>
+            <sco:ObservableCollection x:TypeArguments="OcenaClass" />
+          </PrzedmiotClass.PrzedmiotOceny2>
+        </PrzedmiotClass>
+        <PrzedmiotClass PrzedmiotIsBranyPodUwage="True" PrzedmiotNazwa="Religia" PrzedmiotOcena="0" PrzedmiotOcena1="0" PrzedmiotOcena2="0" PrzedmiotProg="Zwykły nauczyciel" PrzedmiotŚrednia="0" PrzedmiotŚrednia1="0" PrzedmiotŚrednia2="0">
+          <PrzedmiotClass.PrzedmiotOceny1>
+            <sco:ObservableCollection x:TypeArguments="OcenaClass" />
+          </PrzedmiotClass.PrzedmiotOceny1>
+          <PrzedmiotClass.PrzedmiotOceny2>
+            <sco:ObservableCollection x:TypeArguments="OcenaClass" />
+          </PrzedmiotClass.PrzedmiotOceny2>
+        </PrzedmiotClass>
+        <PrzedmiotClass PrzedmiotIsBranyPodUwage="True" PrzedmiotNazwa="Technika" PrzedmiotOcena="0" PrzedmiotOcena1="0" PrzedmiotOcena2="0" PrzedmiotProg="Zwykły nauczyciel" PrzedmiotŚrednia="0" PrzedmiotŚrednia1="0" PrzedmiotŚrednia2="0">
+          <PrzedmiotClass.PrzedmiotOceny1>
+            <sco:ObservableCollection x:TypeArguments="OcenaClass" />
+          </PrzedmiotClass.PrzedmiotOceny1>
+          <PrzedmiotClass.PrzedmiotOceny2>
+            <sco:ObservableCollection x:TypeArguments="OcenaClass" />
+          </PrzedmiotClass.PrzedmiotOceny2>
+        </PrzedmiotClass>
+        <PrzedmiotClass PrzedmiotIsBranyPodUwage="True" PrzedmiotNazwa="WDŻ" PrzedmiotOcena="0" PrzedmiotOcena1="0" PrzedmiotOcena2="0" PrzedmiotProg="Zwykły nauczyciel" PrzedmiotŚrednia="0" PrzedmiotŚrednia1="0" PrzedmiotŚrednia2="0">
+          <PrzedmiotClass.PrzedmiotOceny1>
+            <sco:ObservableCollection x:TypeArguments="OcenaClass" />
+          </PrzedmiotClass.PrzedmiotOceny1>
+          <PrzedmiotClass.PrzedmiotOceny2>
+            <sco:ObservableCollection x:TypeArguments="OcenaClass" />
+          </PrzedmiotClass.PrzedmiotOceny2>
+        </PrzedmiotClass>
+        <PrzedmiotClass PrzedmiotIsBranyPodUwage="True" PrzedmiotNazwa="W-F" PrzedmiotOcena="0" PrzedmiotOcena1="0" PrzedmiotOcena2="0" PrzedmiotProg="Zwykły nauczyciel" PrzedmiotŚrednia="0" PrzedmiotŚrednia1="0" PrzedmiotŚrednia2="0">
+          <PrzedmiotClass.PrzedmiotOceny1>
+            <sco:ObservableCollection x:TypeArguments="OcenaClass" />
+          </PrzedmiotClass.PrzedmiotOceny1>
+          <PrzedmiotClass.PrzedmiotOceny2>
+            <sco:ObservableCollection x:TypeArguments="OcenaClass" />
+          </PrzedmiotClass.PrzedmiotOceny2>
+        </PrzedmiotClass>
+        <PrzedmiotClass PrzedmiotIsBranyPodUwage="True" PrzedmiotNazwa="WOS" PrzedmiotOcena="0" PrzedmiotOcena1="0" PrzedmiotOcena2="0" PrzedmiotProg="Zwykły nauczyciel" PrzedmiotŚrednia="0" PrzedmiotŚrednia1="0" PrzedmiotŚrednia2="0">
+          <PrzedmiotClass.PrzedmiotOceny1>
+            <sco:ObservableCollection x:TypeArguments="OcenaClass" />
+          </PrzedmiotClass.PrzedmiotOceny1>
+          <PrzedmiotClass.PrzedmiotOceny2>
+            <sco:ObservableCollection x:TypeArguments="OcenaClass" />
+          </PrzedmiotClass.PrzedmiotOceny2>
+        </PrzedmiotClass>
+        <PrzedmiotClass PrzedmiotIsBranyPodUwage="True" PrzedmiotNazwa="Zajęcia artystyczne" PrzedmiotOcena="0" PrzedmiotOcena1="0" PrzedmiotOcena2="0" PrzedmiotProg="Zwykły nauczyciel" PrzedmiotŚrednia="0" PrzedmiotŚrednia1="0" PrzedmiotŚrednia2="0">
+          <PrzedmiotClass.PrzedmiotOceny1>
+            <sco:ObservableCollection x:TypeArguments="OcenaClass" />
+          </PrzedmiotClass.PrzedmiotOceny1>
+          <PrzedmiotClass.PrzedmiotOceny2>
+            <sco:ObservableCollection x:TypeArguments="OcenaClass" />
+          </PrzedmiotClass.PrzedmiotOceny2>
+        </PrzedmiotClass>
+      </SesjaClass.Przedmioty>
+    </SesjaClass>
+  </SesjeClass.Sesje>
+</SesjeClass>

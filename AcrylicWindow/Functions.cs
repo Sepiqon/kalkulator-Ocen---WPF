@@ -1,0 +1,175 @@
+﻿
+using System.Collections.Generic;
+using System.Windows;
+
+namespace KalkuratorOcen
+{
+    internal class Functions
+    {
+        public static double Obliczsrednia(List<double> ListaWartosc)
+        {
+            if (ListaWartosc.Count == 0) { return default; }
+            double tymczasowe = default;
+            foreach (double item in ListaWartosc) { tymczasowe += item; }
+            tymczasowe /= ListaWartosc.Count;
+            if (tymczasowe == double.NaN) { return default; } else { return tymczasowe; }
+        }
+        public static double ZnajdzOcenę(string ocena)
+        {
+
+
+            switch (ocena)
+            {
+                case "1":
+                    return 1;
+                    break;
+                case "1+":
+                    return 1.5;
+                    break;
+                case "2":
+                    return 2;
+                    break;
+                case "2+":
+                    return 2.5;
+                    break;
+                case "2-":
+                    return 1.75;
+                    break;
+                case "3":
+                    return 3;
+                    break;
+                case "3+":
+                    return 3.5;
+                    break;
+                case "3-":
+                    return 2.75;
+                    break;
+                case "4":
+                    return 4;
+                    break;
+                case "4+":
+                    return 4.5;
+                    break;
+                case "4-":
+                    return 3.75;
+                    break;
+                case "5":
+                    return 5;
+                    break;
+                case "5+":
+                    return 5.5;
+                    break;
+                case "5-":
+                    return 4.75;
+                    break;
+                case "6":
+                    return 6;
+                    break;
+                case "6-":
+                    return 5.75;
+                    break;
+            }
+            return default;
+            //double minus=0;
+            //double plus=0;
+            //int ocenaWlasciwa=0;
+            //if (ocena.Replace("+", "") != ocena)
+            //{
+            //    plus = 0.5;
+            //    ocenaWlasciwa = int.Parse(ocena.Replace("+", ""));
+            //}
+
+            //if (ocena.Replace("-", "") != ocena)
+            //{
+            //    minus = 0.25;
+            //    ocenaWlasciwa = int.Parse(ocena.Replace("-", ""));
+            //}
+            //if (ocena.Replace("+", "") == ocena && ocena.Replace("-", "") == ocena)
+            //{
+            //    ocenaWlasciwa = int.Parse(ocena);
+            //}
+            //return ocenaWlasciwa + plus - minus;
+
+
+        }
+        public static int OcenaNaKoniec(string prog, double srednia)
+        {
+            List<double> SrednieSrednie = new List<double>
+            {
+                0,
+                1.70,
+                2.70,
+                3.70,
+                4.75,
+                5.30
+            };
+            if (srednia == double.NaN)
+            {
+                return 0;
+            }
+            List<double> Srednie = new List<double>();
+            foreach (double item in SrednieSrednie)
+            {
+
+                Srednie.Add(item + (((Database.AllLangs.LangPL.PLTypyNauczycieli().IndexOf(prog)) - 3) * 0.1));
+            }
+            foreach (double item in Srednie)
+            {
+                if (srednia < item)
+                {
+                    return Srednie.IndexOf(item);
+                }
+            }
+            if (6 > Srednie[5])
+            {
+                return 6;
+            }
+
+            return default;
+
+        }
+        public static List<Visibility> VisiblityTabs(int PoziomOdblokowany)
+        {
+            List<bool> temp = new List<bool> { false, false, false, false, false };
+            if (PoziomOdblokowany == 1)
+            {
+                temp[0] = true;
+            }
+            if (PoziomOdblokowany == 2)
+            {
+                temp[0] = true;
+                temp[1] = true;
+            }
+            if (PoziomOdblokowany == 3)
+            {
+                temp[0] = true;
+                temp[1] = true;
+                temp[2] = true;
+            }
+            if (PoziomOdblokowany == 4)
+            {
+                temp[0] = true;
+                temp[1] = true;
+                temp[2] = true;
+                temp[3] = true;
+
+            }
+            if (PoziomOdblokowany == 5)
+            {
+                temp[0] = true;
+                temp[1] = true;
+                temp[2] = true;
+                temp[3] = true;
+                temp[4] = true;
+            }
+
+            List<Visibility> listatemp = new List<Visibility>();
+            foreach (bool item in temp)
+            {
+                if (item == true) { listatemp.Add(Visibility.Visible); } else { listatemp.Add(Visibility.Collapsed); }
+            }
+
+            return listatemp;
+        }
+    }
+}

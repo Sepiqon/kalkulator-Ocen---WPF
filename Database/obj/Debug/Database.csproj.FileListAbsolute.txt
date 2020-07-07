@@ -1,0 +1,51 @@
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5 — kopia\Database\obj\Debug\Controls\PrawdaFałsz.baml
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5 — kopia\Database\obj\Debug\Controls\PrawdaFałszView.baml
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5 — kopia\Database\obj\Debug\Controls\PrawdaFałsz.g.cs
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5 — kopia\Database\obj\Debug\Controls\PrawdaFałszView.g.cs
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5 — kopia\Database\obj\Debug\Database_MarkupCompile.cache
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5 — kopia\Database\bin\Debug\Database.dll.config
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5 — kopia\Database\bin\Debug\Database.dll
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5 — kopia\Database\bin\Debug\Database.pdb
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5 — kopia\Database\bin\Debug\EntityFramework.dll
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5 — kopia\Database\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5 — kopia\Database\bin\Debug\EntityFramework.xml
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5 — kopia\Database\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5 — kopia\Database\obj\Debug\Database.g.resources
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5 — kopia\Database\obj\Debug\Database.csproj.CopyComplete
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5 — kopia\Database\obj\Debug\Database.dll
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5 — kopia\Database\obj\Debug\Database.pdb
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5 — kopia\Database\obj\Debug\Database.csprojAssemblyReference.cache
+C:\Users\RyZen\Desktop\Projekty Visual Studio\ProjectKOCode\Database\bin\Debug\Database.dll.config
+C:\Users\RyZen\Desktop\Projekty Visual Studio\ProjectKOCode\Database\bin\Debug\Database.dll
+C:\Users\RyZen\Desktop\Projekty Visual Studio\ProjectKOCode\Database\bin\Debug\Database.pdb
+C:\Users\RyZen\Desktop\Projekty Visual Studio\ProjectKOCode\Database\bin\Debug\EntityFramework.dll
+C:\Users\RyZen\Desktop\Projekty Visual Studio\ProjectKOCode\Database\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\RyZen\Desktop\Projekty Visual Studio\ProjectKOCode\Database\bin\Debug\EntityFramework.xml
+C:\Users\RyZen\Desktop\Projekty Visual Studio\ProjectKOCode\Database\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\RyZen\Desktop\Projekty Visual Studio\ProjectKOCode\Database\obj\Debug\Database.csprojAssemblyReference.cache
+C:\Users\RyZen\Desktop\Projekty Visual Studio\ProjectKOCode\Database\obj\Debug\Controls\PrawdaFałsz.baml
+C:\Users\RyZen\Desktop\Projekty Visual Studio\ProjectKOCode\Database\obj\Debug\Controls\PrawdaFałszView.baml
+C:\Users\RyZen\Desktop\Projekty Visual Studio\ProjectKOCode\Database\obj\Debug\Controls\PrawdaFałsz.g.cs
+C:\Users\RyZen\Desktop\Projekty Visual Studio\ProjectKOCode\Database\obj\Debug\Controls\PrawdaFałszView.g.cs
+C:\Users\RyZen\Desktop\Projekty Visual Studio\ProjectKOCode\Database\obj\Debug\Database_MarkupCompile.cache
+C:\Users\RyZen\Desktop\Projekty Visual Studio\ProjectKOCode\Database\obj\Debug\Database.g.resources
+C:\Users\RyZen\Desktop\Projekty Visual Studio\ProjectKOCode\Database\obj\Debug\Database.csproj.CopyComplete
+C:\Users\RyZen\Desktop\Projekty Visual Studio\ProjectKOCode\Database\obj\Debug\Database.dll
+C:\Users\RyZen\Desktop\Projekty Visual Studio\ProjectKOCode\Database\obj\Debug\Database.pdb
+C:\Users\RyZen\Documents\DataBase\VisualStudio\MyProjects\ProjectKOCode\Database\bin\Debug\Database.dll.config
+C:\Users\RyZen\Documents\DataBase\VisualStudio\MyProjects\ProjectKOCode\Database\bin\Debug\Database.dll
+C:\Users\RyZen\Documents\DataBase\VisualStudio\MyProjects\ProjectKOCode\Database\bin\Debug\Database.pdb
+C:\Users\RyZen\Documents\DataBase\VisualStudio\MyProjects\ProjectKOCode\Database\bin\Debug\EntityFramework.dll
+C:\Users\RyZen\Documents\DataBase\VisualStudio\MyProjects\ProjectKOCode\Database\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\RyZen\Documents\DataBase\VisualStudio\MyProjects\ProjectKOCode\Database\bin\Debug\EntityFramework.xml
+C:\Users\RyZen\Documents\DataBase\VisualStudio\MyProjects\ProjectKOCode\Database\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\RyZen\Documents\DataBase\VisualStudio\MyProjects\ProjectKOCode\Database\obj\Debug\Database.csprojAssemblyReference.cache
+C:\Users\RyZen\Documents\DataBase\VisualStudio\MyProjects\ProjectKOCode\Database\obj\Debug\Controls\PrawdaFałsz.baml
+C:\Users\RyZen\Documents\DataBase\VisualStudio\MyProjects\ProjectKOCode\Database\obj\Debug\Controls\PrawdaFałszView.baml
+C:\Users\RyZen\Documents\DataBase\VisualStudio\MyProjects\ProjectKOCode\Database\obj\Debug\Controls\PrawdaFałsz.g.cs
+C:\Users\RyZen\Documents\DataBase\VisualStudio\MyProjects\ProjectKOCode\Database\obj\Debug\Controls\PrawdaFałszView.g.cs
+C:\Users\RyZen\Documents\DataBase\VisualStudio\MyProjects\ProjectKOCode\Database\obj\Debug\Database_MarkupCompile.cache
+C:\Users\RyZen\Documents\DataBase\VisualStudio\MyProjects\ProjectKOCode\Database\obj\Debug\Database.g.resources
+C:\Users\RyZen\Documents\DataBase\VisualStudio\MyProjects\ProjectKOCode\Database\obj\Debug\Database.csproj.CopyComplete
+C:\Users\RyZen\Documents\DataBase\VisualStudio\MyProjects\ProjectKOCode\Database\obj\Debug\Database.dll
+C:\Users\RyZen\Documents\DataBase\VisualStudio\MyProjects\ProjectKOCode\Database\obj\Debug\Database.pdb

@@ -1,0 +1,276 @@
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2\AcrylicWindow\bin\Release\KalkulatorOcen.exe.config
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2\AcrylicWindow\bin\Release\KalkulatorOcen.exe.manifest
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2\AcrylicWindow\bin\Release\KalkulatorOcen.application
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2\AcrylicWindow\bin\Release\KalkulatorOcen.exe
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2\AcrylicWindow\bin\Release\KalkulatorOcen.pdb
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2\AcrylicWindow\bin\Release\Database.dll
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2\AcrylicWindow\bin\Release\dbfko.dll
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2\AcrylicWindow\bin\Release\FluentWPF.dll
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2\AcrylicWindow\bin\Release\MaterialDesignColors.dll
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2\AcrylicWindow\bin\Release\MaterialDesignThemes.Wpf.dll
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2\AcrylicWindow\bin\Release\WindowsBase.dll
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2\AcrylicWindow\bin\Release\Xceed.Wpf.Toolkit.dll
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2\AcrylicWindow\bin\Release\Database.pdb
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2\AcrylicWindow\bin\Release\dbfko.pdb
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2\AcrylicWindow\bin\Release\MaterialDesignColors.pdb
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2\AcrylicWindow\bin\Release\MaterialDesignThemes.Wpf.pdb
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2\AcrylicWindow\bin\Release\MaterialDesignThemes.Wpf.xml
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2\AcrylicWindow\bin\Release\Xceed.Wpf.Toolkit.xml
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2\AcrylicWindow\obj\Release\KalkuratorOcen.csprojAssemblyReference.cache
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2\AcrylicWindow\obj\Release\MainWindow.baml
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2\AcrylicWindow\obj\Release\MainWindow.g.cs
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2\AcrylicWindow\obj\Release\Panel\WczytajWindow.g.cs
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2\AcrylicWindow\obj\Release\App.g.cs
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2\AcrylicWindow\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2\AcrylicWindow\obj\Release\KalkulatorOcen_MarkupCompile.cache
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2\AcrylicWindow\obj\Release\KalkulatorOcen_MarkupCompile.lref
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2\AcrylicWindow\obj\Release\Panel\WczytajWindow.baml
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2\AcrylicWindow\obj\Release\Themes\Styles.baml
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2\AcrylicWindow\obj\Release\KalkulatorOcen.g.resources
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2\AcrylicWindow\obj\Release\KalkulatorOcen.Properties.Resources.resources
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2\AcrylicWindow\obj\Release\KalkulatorOcen.Resource1.resources
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2\AcrylicWindow\obj\Release\KalkuratorOcen.csproj.GenerateResource.cache
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2\AcrylicWindow\obj\Release\KalkulatorOcen.TrustInfo.xml
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2\AcrylicWindow\obj\Release\KalkulatorOcen.exe.manifest
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2\AcrylicWindow\obj\Release\KalkulatorOcen.application
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2\AcrylicWindow\obj\Release\KalkuratorOcen.csproj.CopyComplete
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2\AcrylicWindow\obj\Release\KalkulatorOcen.exe
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2\AcrylicWindow\obj\Release\KalkulatorOcen.pdb
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2)\AcrylicWindow\bin\Release\KalkulatorOcen.exe.config
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2)\AcrylicWindow\bin\Release\KalkulatorOcen.exe.manifest
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2)\AcrylicWindow\bin\Release\KalkulatorOcen.application
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2)\AcrylicWindow\bin\Release\KalkulatorOcen.exe
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2)\AcrylicWindow\bin\Release\KalkulatorOcen.pdb
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2)\AcrylicWindow\bin\Release\Database.dll
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2)\AcrylicWindow\bin\Release\dbfko.dll
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2)\AcrylicWindow\bin\Release\FluentWPF.dll
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2)\AcrylicWindow\bin\Release\MaterialDesignColors.dll
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2)\AcrylicWindow\bin\Release\MaterialDesignThemes.Wpf.dll
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2)\AcrylicWindow\bin\Release\WindowsBase.dll
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2)\AcrylicWindow\bin\Release\Database.pdb
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2)\AcrylicWindow\bin\Release\dbfko.pdb
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2)\AcrylicWindow\bin\Release\MaterialDesignColors.pdb
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2)\AcrylicWindow\bin\Release\MaterialDesignThemes.Wpf.pdb
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2)\AcrylicWindow\bin\Release\MaterialDesignThemes.Wpf.xml
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2)\AcrylicWindow\obj\Release\KalkuratorOcen.csprojAssemblyReference.cache
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2)\AcrylicWindow\obj\Release\App.g.cs
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2)\AcrylicWindow\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2)\AcrylicWindow\obj\Release\KalkulatorOcen_MarkupCompile.cache
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2)\AcrylicWindow\obj\Release\KalkulatorOcen_MarkupCompile.lref
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2)\AcrylicWindow\obj\Release\App.baml
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2)\AcrylicWindow\obj\Release\Themes\Styles.baml
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2)\AcrylicWindow\obj\Release\KalkulatorOcen.g.resources
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2)\AcrylicWindow\obj\Release\KalkulatorOcen.Properties.Resources.resources
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2)\AcrylicWindow\obj\Release\KalkuratorOcen.csproj.GenerateResource.cache
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2)\AcrylicWindow\obj\Release\KalkulatorOcen.TrustInfo.xml
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2)\AcrylicWindow\obj\Release\KalkulatorOcen.exe.manifest
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2)\AcrylicWindow\obj\Release\KalkulatorOcen.application
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2)\AcrylicWindow\obj\Release\KalkuratorOcen.csproj.CopyComplete
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2)\AcrylicWindow\obj\Release\KalkulatorOcen.exe
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2)\AcrylicWindow\obj\Release\KalkulatorOcen.pdb
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2)\AcrylicWindow\obj\Release\Controls\NumericUpDawn\TemplateNumericUpDown.g.cs
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2)\AcrylicWindow\obj\Release\ZapiszWindow\ZapiszWindow.g.cs
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2)\AcrylicWindow\obj\Release\Controls\NumericUpDawn\TemplateNumericUpDown.baml
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2)\AcrylicWindow\obj\Release\ZapiszWindow\ZapiszWindow.baml
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2)\AcrylicWindow\obj\Release\MainWindow.g.cs
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2)\AcrylicWindow\obj\Release\MainWindow.baml
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2)\AcrylicWindow\obj\Release\ZarzadzanieKategoriami\ZarzadzanieKategoriami.g.cs
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2)\AcrylicWindow\obj\Release\ZarzadzaniePrzedmiotami\ZarzadzaniePrzedmiotami.g.cs
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2)\AcrylicWindow\obj\Release\ZarzadzanieKategoriami\ZarzadzanieKategoriami.baml
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2)\AcrylicWindow\obj\Release\ZarzadzaniePrzedmiotami\ZarzadzaniePrzedmiotami.baml
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2) — kopia\AcrylicWindow\bin\Release\KalkulatorOcen.exe.config
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2) — kopia\AcrylicWindow\bin\Release\KalkulatorOcen.exe.manifest
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2) — kopia\AcrylicWindow\bin\Release\KalkulatorOcen.application
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2) — kopia\AcrylicWindow\bin\Release\KalkulatorOcen.exe
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2) — kopia\AcrylicWindow\bin\Release\KalkulatorOcen.pdb
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2) — kopia\AcrylicWindow\bin\Release\Database.dll
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2) — kopia\AcrylicWindow\bin\Release\dbfko.dll
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2) — kopia\AcrylicWindow\bin\Release\FluentWPF.dll
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2) — kopia\AcrylicWindow\bin\Release\MaterialDesignColors.dll
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2) — kopia\AcrylicWindow\bin\Release\MaterialDesignThemes.Wpf.dll
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2) — kopia\AcrylicWindow\bin\Release\WindowsBase.dll
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2) — kopia\AcrylicWindow\bin\Release\Database.pdb
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2) — kopia\AcrylicWindow\bin\Release\dbfko.pdb
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2) — kopia\AcrylicWindow\bin\Release\MaterialDesignColors.pdb
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2) — kopia\AcrylicWindow\bin\Release\MaterialDesignThemes.Wpf.pdb
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2) — kopia\AcrylicWindow\bin\Release\MaterialDesignThemes.Wpf.xml
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2) — kopia\AcrylicWindow\obj\Release\KalkuratorOcen.csprojAssemblyReference.cache
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2) — kopia\AcrylicWindow\obj\Release\MainWindow.g.cs
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2) — kopia\AcrylicWindow\obj\Release\Controls\NumericUpDawn\TemplateNumericUpDown.g.cs
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2) — kopia\AcrylicWindow\obj\Release\ZapiszWindow\ZapiszWindow.g.cs
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2) — kopia\AcrylicWindow\obj\Release\ZarzadzanieKategoriami\ZarzadzanieKategoriami.g.cs
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2) — kopia\AcrylicWindow\obj\Release\ZarzadzaniePrzedmiotami\ZarzadzaniePrzedmiotami.g.cs
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2) — kopia\AcrylicWindow\obj\Release\App.g.cs
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2) — kopia\AcrylicWindow\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2) — kopia\AcrylicWindow\obj\Release\KalkulatorOcen_MarkupCompile.cache
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2) — kopia\AcrylicWindow\obj\Release\KalkulatorOcen_MarkupCompile.lref
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2) — kopia\AcrylicWindow\obj\Release\App.baml
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2) — kopia\AcrylicWindow\obj\Release\MainWindow.baml
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2) — kopia\AcrylicWindow\obj\Release\Controls\NumericUpDawn\TemplateNumericUpDown.baml
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2) — kopia\AcrylicWindow\obj\Release\Themes\Styles.baml
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2) — kopia\AcrylicWindow\obj\Release\ZapiszWindow\ZapiszWindow.baml
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2) — kopia\AcrylicWindow\obj\Release\ZarzadzanieKategoriami\ZarzadzanieKategoriami.baml
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2) — kopia\AcrylicWindow\obj\Release\ZarzadzaniePrzedmiotami\ZarzadzaniePrzedmiotami.baml
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2) — kopia\AcrylicWindow\obj\Release\KalkulatorOcen.g.resources
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2) — kopia\AcrylicWindow\obj\Release\KalkulatorOcen.Properties.Resources.resources
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2) — kopia\AcrylicWindow\obj\Release\KalkuratorOcen.csproj.GenerateResource.cache
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2) — kopia\AcrylicWindow\obj\Release\KalkulatorOcen.TrustInfo.xml
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2) — kopia\AcrylicWindow\obj\Release\KalkulatorOcen.exe.manifest
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2) — kopia\AcrylicWindow\obj\Release\KalkulatorOcen.application
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2) — kopia\AcrylicWindow\obj\Release\KalkuratorOcen.csproj.CopyComplete
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2) — kopia\AcrylicWindow\obj\Release\KalkulatorOcen.exe
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2) — kopia\AcrylicWindow\obj\Release\KalkulatorOcen.pdb
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2) — kopia\AcrylicWindow\obj\Release\Pages\WybierzSemestr.g.cs
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2) — kopia\AcrylicWindow\obj\Release\Pages\WybierzSemestr.baml
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5\AcrylicWindow\obj\Release\KalkuratorOcen.csprojAssemblyReference.cache
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5\AcrylicWindow\obj\Release\MainWindow.g.cs
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5\AcrylicWindow\obj\Release\Controls\NumericUpDawn\TemplateNumericUpDown.g.cs
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5\AcrylicWindow\obj\Release\Pages\Dane wyjsciowe.g.cs
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5\AcrylicWindow\obj\Release\Pages\Informacje_o_Przedmiotach.g.cs
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5\AcrylicWindow\obj\Release\Pages\WybierzPrzedmioty.g.cs
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5\AcrylicWindow\obj\Release\Pages\WybierzSemestr.g.cs
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5\AcrylicWindow\obj\Release\ZapiszWindow\ZapiszWindow.g.cs
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5\AcrylicWindow\obj\Release\ZarzadzanieKategoriami\ZarzadzanieKategoriami.g.cs
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5\AcrylicWindow\obj\Release\ZarzadzaniePrzedmiotami\ZarzadzaniePrzedmiotami.g.cs
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5\AcrylicWindow\obj\Release\App.g.cs
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5\AcrylicWindow\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5\AcrylicWindow\obj\Release\KalkulatorOcen_MarkupCompile.cache
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5\AcrylicWindow\obj\Release\KalkulatorOcen_MarkupCompile.lref
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5\AcrylicWindow\obj\Release\KalkulatorOcen.exe
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5\AcrylicWindow\obj\Release\KalkulatorOcen.pdb
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5\AcrylicWindow\bin\Release\KalkulatorOcen.exe.config
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5\AcrylicWindow\bin\Release\KalkulatorOcen.exe.manifest
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5\AcrylicWindow\bin\Release\KalkulatorOcen.application
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5\AcrylicWindow\bin\Release\KalkulatorOcen.exe
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5\AcrylicWindow\bin\Release\KalkulatorOcen.pdb
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5\AcrylicWindow\bin\Release\Database.dll
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5\AcrylicWindow\bin\Release\dbfko.dll
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5\AcrylicWindow\bin\Release\FluentWPF.dll
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5\AcrylicWindow\bin\Release\MaterialDesignColors.dll
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5\AcrylicWindow\bin\Release\MaterialDesignThemes.Wpf.dll
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5\AcrylicWindow\bin\Release\WindowsBase.dll
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5\AcrylicWindow\bin\Release\Database.pdb
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5\AcrylicWindow\bin\Release\dbfko.pdb
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5\AcrylicWindow\bin\Release\MaterialDesignColors.pdb
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5\AcrylicWindow\bin\Release\MaterialDesignThemes.Wpf.pdb
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5\AcrylicWindow\bin\Release\MaterialDesignThemes.Wpf.xml
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5\AcrylicWindow\obj\Release\App.baml
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5\AcrylicWindow\obj\Release\MainWindow.baml
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5\AcrylicWindow\obj\Release\Controls\NumericUpDawn\TemplateNumericUpDown.baml
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5\AcrylicWindow\obj\Release\Pages\Dane wyjsciowe.baml
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5\AcrylicWindow\obj\Release\Pages\Informacje_o_Przedmiotach.baml
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5\AcrylicWindow\obj\Release\Pages\WybierzPrzedmioty.baml
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5\AcrylicWindow\obj\Release\Pages\WybierzSemestr.baml
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5\AcrylicWindow\obj\Release\Themes\Styles.baml
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5\AcrylicWindow\obj\Release\ZapiszWindow\ZapiszWindow.baml
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5\AcrylicWindow\obj\Release\ZarzadzanieKategoriami\ZarzadzanieKategoriami.baml
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5\AcrylicWindow\obj\Release\ZarzadzaniePrzedmiotami\ZarzadzaniePrzedmiotami.baml
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5\AcrylicWindow\obj\Release\KalkulatorOcen.g.resources
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5\AcrylicWindow\obj\Release\KalkulatorOcen.Properties.Resources.resources
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5\AcrylicWindow\obj\Release\KalkuratorOcen.csproj.GenerateResource.cache
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5\AcrylicWindow\obj\Release\KalkulatorOcen.TrustInfo.xml
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5\AcrylicWindow\obj\Release\KalkulatorOcen.exe.manifest
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5\AcrylicWindow\obj\Release\KalkulatorOcen.application
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5\AcrylicWindow\obj\Release\KalkuratorOcen.csproj.CopyComplete
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5 — kopia\AcrylicWindow\obj\Release\KalkuratorOcen.csprojAssemblyReference.cache
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5 — kopia\AcrylicWindow\obj\Release\MainWindow.g.cs
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5 — kopia\AcrylicWindow\obj\Release\App.g.cs
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5 — kopia\AcrylicWindow\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5 — kopia\AcrylicWindow\obj\Release\KalkulatorOcen_MarkupCompile.cache
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5 — kopia\AcrylicWindow\obj\Release\KalkulatorOcen_MarkupCompile.lref
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5 — kopia\AcrylicWindow\obj\Release\KalkulatorOcen.exe
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5 — kopia\AcrylicWindow\obj\Release\KalkulatorOcen.pdb
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5 — kopia\AcrylicWindow\bin\Release\KalkulatorOcen.exe.config
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5 — kopia\AcrylicWindow\bin\Release\KalkulatorOcen.exe.manifest
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5 — kopia\AcrylicWindow\bin\Release\KalkulatorOcen.application
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5 — kopia\AcrylicWindow\bin\Release\KalkulatorOcen.exe
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5 — kopia\AcrylicWindow\bin\Release\KalkulatorOcen.pdb
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5 — kopia\AcrylicWindow\bin\Release\Database.dll
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5 — kopia\AcrylicWindow\bin\Release\FluentWPF.dll
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5 — kopia\AcrylicWindow\bin\Release\MaterialDesignColors.dll
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5 — kopia\AcrylicWindow\bin\Release\MaterialDesignThemes.Wpf.dll
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5 — kopia\AcrylicWindow\bin\Release\Database.pdb
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5 — kopia\AcrylicWindow\bin\Release\MaterialDesignColors.pdb
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5 — kopia\AcrylicWindow\bin\Release\MaterialDesignThemes.Wpf.pdb
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5 — kopia\AcrylicWindow\bin\Release\MaterialDesignThemes.Wpf.xml
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5 — kopia\AcrylicWindow\obj\Release\App.baml
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5 — kopia\AcrylicWindow\obj\Release\MainWindow.baml
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5 — kopia\AcrylicWindow\obj\Release\Themes\Styles.baml
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5 — kopia\AcrylicWindow\obj\Release\KalkulatorOcen.g.resources
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5 — kopia\AcrylicWindow\obj\Release\KalkulatorOcen.Properties.Resources.resources
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5 — kopia\AcrylicWindow\obj\Release\KalkuratorOcen.csproj.GenerateResource.cache
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5 — kopia\AcrylicWindow\obj\Release\KalkulatorOcen.TrustInfo.xml
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5 — kopia\AcrylicWindow\obj\Release\KalkulatorOcen.exe.manifest
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5 — kopia\AcrylicWindow\obj\Release\KalkulatorOcen.application
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5 — kopia\AcrylicWindow\obj\Release\KalkuratorOcen.csproj.CopyComplete
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5 — kopia\AcrylicWindow\bin\Release\Database.dll.config
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5 — kopia\AcrylicWindow\bin\Release\Newtonsoft.Json.dll
+C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.5 — kopia\AcrylicWindow\bin\Release\Newtonsoft.Json.xml
+C:\Users\RyZen\Desktop\Projekty Visual Studio\ProjectKOCode\AcrylicWindow\bin\Release\KalkulatorOcen.exe.config
+C:\Users\RyZen\Desktop\Projekty Visual Studio\ProjectKOCode\AcrylicWindow\bin\Release\KalkulatorOcen.exe.manifest
+C:\Users\RyZen\Desktop\Projekty Visual Studio\ProjectKOCode\AcrylicWindow\bin\Release\KalkulatorOcen.application
+C:\Users\RyZen\Desktop\Projekty Visual Studio\ProjectKOCode\AcrylicWindow\bin\Release\KalkulatorOcen.exe
+C:\Users\RyZen\Desktop\Projekty Visual Studio\ProjectKOCode\AcrylicWindow\bin\Release\KalkulatorOcen.pdb
+C:\Users\RyZen\Desktop\Projekty Visual Studio\ProjectKOCode\AcrylicWindow\bin\Release\Database.dll
+C:\Users\RyZen\Desktop\Projekty Visual Studio\ProjectKOCode\AcrylicWindow\bin\Release\FluentWPF.dll
+C:\Users\RyZen\Desktop\Projekty Visual Studio\ProjectKOCode\AcrylicWindow\bin\Release\MaterialDesignColors.dll
+C:\Users\RyZen\Desktop\Projekty Visual Studio\ProjectKOCode\AcrylicWindow\bin\Release\MaterialDesignThemes.Wpf.dll
+C:\Users\RyZen\Desktop\Projekty Visual Studio\ProjectKOCode\AcrylicWindow\bin\Release\Newtonsoft.Json.dll
+C:\Users\RyZen\Desktop\Projekty Visual Studio\ProjectKOCode\AcrylicWindow\bin\Release\Database.pdb
+C:\Users\RyZen\Desktop\Projekty Visual Studio\ProjectKOCode\AcrylicWindow\bin\Release\Database.dll.config
+C:\Users\RyZen\Desktop\Projekty Visual Studio\ProjectKOCode\AcrylicWindow\bin\Release\MaterialDesignColors.pdb
+C:\Users\RyZen\Desktop\Projekty Visual Studio\ProjectKOCode\AcrylicWindow\bin\Release\MaterialDesignThemes.Wpf.pdb
+C:\Users\RyZen\Desktop\Projekty Visual Studio\ProjectKOCode\AcrylicWindow\bin\Release\MaterialDesignThemes.Wpf.xml
+C:\Users\RyZen\Desktop\Projekty Visual Studio\ProjectKOCode\AcrylicWindow\bin\Release\Newtonsoft.Json.xml
+C:\Users\RyZen\Desktop\Projekty Visual Studio\ProjectKOCode\AcrylicWindow\obj\Release\KalkuratorOcen.csprojAssemblyReference.cache
+C:\Users\RyZen\Desktop\Projekty Visual Studio\ProjectKOCode\AcrylicWindow\obj\Release\MainWindow.baml
+C:\Users\RyZen\Desktop\Projekty Visual Studio\ProjectKOCode\AcrylicWindow\obj\Release\MainWindow.g.cs
+C:\Users\RyZen\Desktop\Projekty Visual Studio\ProjectKOCode\AcrylicWindow\obj\Release\App.g.cs
+C:\Users\RyZen\Desktop\Projekty Visual Studio\ProjectKOCode\AcrylicWindow\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\RyZen\Desktop\Projekty Visual Studio\ProjectKOCode\AcrylicWindow\obj\Release\KalkulatorOcen_MarkupCompile.cache
+C:\Users\RyZen\Desktop\Projekty Visual Studio\ProjectKOCode\AcrylicWindow\obj\Release\KalkulatorOcen_MarkupCompile.lref
+C:\Users\RyZen\Desktop\Projekty Visual Studio\ProjectKOCode\AcrylicWindow\obj\Release\App.baml
+C:\Users\RyZen\Desktop\Projekty Visual Studio\ProjectKOCode\AcrylicWindow\obj\Release\Themes\Styles.baml
+C:\Users\RyZen\Desktop\Projekty Visual Studio\ProjectKOCode\AcrylicWindow\obj\Release\KalkulatorOcen.g.resources
+C:\Users\RyZen\Desktop\Projekty Visual Studio\ProjectKOCode\AcrylicWindow\obj\Release\KalkulatorOcen.Properties.Resources.resources
+C:\Users\RyZen\Desktop\Projekty Visual Studio\ProjectKOCode\AcrylicWindow\obj\Release\KalkuratorOcen.csproj.GenerateResource.cache
+C:\Users\RyZen\Desktop\Projekty Visual Studio\ProjectKOCode\AcrylicWindow\obj\Release\KalkulatorOcen.TrustInfo.xml
+C:\Users\RyZen\Desktop\Projekty Visual Studio\ProjectKOCode\AcrylicWindow\obj\Release\KalkulatorOcen.exe.manifest
+C:\Users\RyZen\Desktop\Projekty Visual Studio\ProjectKOCode\AcrylicWindow\obj\Release\KalkulatorOcen.application
+C:\Users\RyZen\Desktop\Projekty Visual Studio\ProjectKOCode\AcrylicWindow\obj\Release\KalkuratorOcen.csproj.CopyComplete
+C:\Users\RyZen\Desktop\Projekty Visual Studio\ProjectKOCode\AcrylicWindow\obj\Release\KalkulatorOcen.exe
+C:\Users\RyZen\Desktop\Projekty Visual Studio\ProjectKOCode\AcrylicWindow\obj\Release\KalkulatorOcen.pdb
+C:\Users\RyZen\Documents\DataBase\VisualStudio\MyProjects\ProjectKOCode\AcrylicWindow\bin\Release\KalkulatorOcen.exe.config
+C:\Users\RyZen\Documents\DataBase\VisualStudio\MyProjects\ProjectKOCode\AcrylicWindow\bin\Release\KalkulatorOcen.exe.manifest
+C:\Users\RyZen\Documents\DataBase\VisualStudio\MyProjects\ProjectKOCode\AcrylicWindow\bin\Release\KalkulatorOcen.application
+C:\Users\RyZen\Documents\DataBase\VisualStudio\MyProjects\ProjectKOCode\AcrylicWindow\bin\Release\KalkulatorOcen.exe
+C:\Users\RyZen\Documents\DataBase\VisualStudio\MyProjects\ProjectKOCode\AcrylicWindow\bin\Release\KalkulatorOcen.pdb
+C:\Users\RyZen\Documents\DataBase\VisualStudio\MyProjects\ProjectKOCode\AcrylicWindow\bin\Release\Database.dll
+C:\Users\RyZen\Documents\DataBase\VisualStudio\MyProjects\ProjectKOCode\AcrylicWindow\bin\Release\FluentWPF.dll
+C:\Users\RyZen\Documents\DataBase\VisualStudio\MyProjects\ProjectKOCode\AcrylicWindow\bin\Release\MaterialDesignColors.dll
+C:\Users\RyZen\Documents\DataBase\VisualStudio\MyProjects\ProjectKOCode\AcrylicWindow\bin\Release\MaterialDesignThemes.Wpf.dll
+C:\Users\RyZen\Documents\DataBase\VisualStudio\MyProjects\ProjectKOCode\AcrylicWindow\bin\Release\Newtonsoft.Json.dll
+C:\Users\RyZen\Documents\DataBase\VisualStudio\MyProjects\ProjectKOCode\AcrylicWindow\bin\Release\Database.pdb
+C:\Users\RyZen\Documents\DataBase\VisualStudio\MyProjects\ProjectKOCode\AcrylicWindow\bin\Release\Database.dll.config
+C:\Users\RyZen\Documents\DataBase\VisualStudio\MyProjects\ProjectKOCode\AcrylicWindow\bin\Release\MaterialDesignColors.pdb
+C:\Users\RyZen\Documents\DataBase\VisualStudio\MyProjects\ProjectKOCode\AcrylicWindow\bin\Release\MaterialDesignThemes.Wpf.pdb
+C:\Users\RyZen\Documents\DataBase\VisualStudio\MyProjects\ProjectKOCode\AcrylicWindow\bin\Release\MaterialDesignThemes.Wpf.xml
+C:\Users\RyZen\Documents\DataBase\VisualStudio\MyProjects\ProjectKOCode\AcrylicWindow\bin\Release\Newtonsoft.Json.xml
+C:\Users\RyZen\Documents\DataBase\VisualStudio\MyProjects\ProjectKOCode\AcrylicWindow\obj\Release\KalkuratorOcen.csprojAssemblyReference.cache
+C:\Users\RyZen\Documents\DataBase\VisualStudio\MyProjects\ProjectKOCode\AcrylicWindow\obj\Release\MainWindow.baml
+C:\Users\RyZen\Documents\DataBase\VisualStudio\MyProjects\ProjectKOCode\AcrylicWindow\obj\Release\MainWindow.g.cs
+C:\Users\RyZen\Documents\DataBase\VisualStudio\MyProjects\ProjectKOCode\AcrylicWindow\obj\Release\App.g.cs
+C:\Users\RyZen\Documents\DataBase\VisualStudio\MyProjects\ProjectKOCode\AcrylicWindow\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\RyZen\Documents\DataBase\VisualStudio\MyProjects\ProjectKOCode\AcrylicWindow\obj\Release\KalkulatorOcen_MarkupCompile.cache
+C:\Users\RyZen\Documents\DataBase\VisualStudio\MyProjects\ProjectKOCode\AcrylicWindow\obj\Release\KalkulatorOcen_MarkupCompile.lref
+C:\Users\RyZen\Documents\DataBase\VisualStudio\MyProjects\ProjectKOCode\AcrylicWindow\obj\Release\App.baml
+C:\Users\RyZen\Documents\DataBase\VisualStudio\MyProjects\ProjectKOCode\AcrylicWindow\obj\Release\Themes\Styles.baml
+C:\Users\RyZen\Documents\DataBase\VisualStudio\MyProjects\ProjectKOCode\AcrylicWindow\obj\Release\KalkulatorOcen.g.resources
+C:\Users\RyZen\Documents\DataBase\VisualStudio\MyProjects\ProjectKOCode\AcrylicWindow\obj\Release\KalkulatorOcen.Properties.Resources.resources
+C:\Users\RyZen\Documents\DataBase\VisualStudio\MyProjects\ProjectKOCode\AcrylicWindow\obj\Release\KalkuratorOcen.csproj.GenerateResource.cache
+C:\Users\RyZen\Documents\DataBase\VisualStudio\MyProjects\ProjectKOCode\AcrylicWindow\obj\Release\KalkulatorOcen.TrustInfo.xml
+C:\Users\RyZen\Documents\DataBase\VisualStudio\MyProjects\ProjectKOCode\AcrylicWindow\obj\Release\KalkulatorOcen.exe.manifest
+C:\Users\RyZen\Documents\DataBase\VisualStudio\MyProjects\ProjectKOCode\AcrylicWindow\obj\Release\KalkulatorOcen.application
+C:\Users\RyZen\Documents\DataBase\VisualStudio\MyProjects\ProjectKOCode\AcrylicWindow\obj\Release\KalkuratorOcen.csproj.CopyComplete
+C:\Users\RyZen\Documents\DataBase\VisualStudio\MyProjects\ProjectKOCode\AcrylicWindow\obj\Release\KalkulatorOcen.exe
+C:\Users\RyZen\Documents\DataBase\VisualStudio\MyProjects\ProjectKOCode\AcrylicWindow\obj\Release\KalkulatorOcen.pdb

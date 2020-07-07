@@ -1,0 +1,10 @@
+﻿[*.cs]
+
+# IDE0055: Napraw formatowanie
+dotnet_diagnostic.IDE0055.severity = none
+
+# CS0162: Wykryto nieosiągalny kod
+dotnet_diagnostic.CS0162.severity = none
+
+# CS2001: Nie można znaleźć pliku źródłowego „C:\Users\RyZen\Desktop\Projekty Visual Studio\AcrylicWindow-master v2.2 — kopia (2)\AcrylicWindow\SettingsListsConwenter.cs”.
+dotnet_diagnostic.CS2001.severity = none
